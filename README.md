@@ -3,7 +3,7 @@
 **Software engineer from Kenya.** I build secure web and mobile applications, and I've shipped M-Pesa payment integrations in production.
 
 - 💼 Consultant at **Hyperlite Technologies** · previously Junior Software Developer at **WalgoTech Solutions**
-- 🎓 BSc Computer Science, Mount Kenya University (coursework completed) · Diploma in IT, Dedan Kimathi University of Technology
+- 🎓 BSc Computer Science, Mount Kenya University · Diploma in IT, Dedan Kimathi University of Technology
 - 🛡️ Cybershujaa Security Analyst (Kenya ICT Authority), **Distinction** · AWS Certified Cloud Practitioner · Microsoft Azure Fundamentals
 - 🔭 Building full-stack projects in public, listed below
 - 📫 [LinkedIn](https://www.linkedin.com/in/jesse-jason-m/) · jesse.jason2002@gmail.com
